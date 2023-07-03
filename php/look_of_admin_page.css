@@ -1,0 +1,13 @@
+table, tr, th, td {
+    border: solid 2px #bb80d3;
+    padding: 10px;
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    background-color: #640f2e;
+    color: #fffefa;
+}
+tr:hover {background-color: #c38875;}
+tr:first-child{background-color: #c880e3
+}
